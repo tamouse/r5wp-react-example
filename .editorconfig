@@ -1,0 +1,2 @@
+[*.{rb,js,jsx,json,sass,scss,css,yml,yaml}]
+indent_size = 2
